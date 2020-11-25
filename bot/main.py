@@ -1,7 +1,7 @@
 import discord
 
 bot = commands.Bot(command_prefix="!")
-TOKEN = os.getenv("NzQ3ODkzMjM3MjUwNzg1MzEx.X0Vf2g.XECv1SwDBjgDWRZETAweK_hx4QQ")
+TOKEN = os.getenv("NzQ3ODkzMjM3MjUwNzg1MzEx.X0Vf2g.kTRKzK6XfFf_g6HTqPoWLMvWon8")
 client = discord.Client()
 
 @client.event
